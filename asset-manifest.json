@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/klick-web/static/css/main.f855e6bc.css",
-    "main.js": "/klick-web/static/js/main.14f089f9.js",
+    "main.css": "/klick-web/static/css/main.c7cd6998.css",
+    "main.js": "/klick-web/static/js/main.82a64fb7.js",
     "static/js/453.a2f5cdf3.chunk.js": "/klick-web/static/js/453.a2f5cdf3.chunk.js",
-    "static/media/logo.svg": "/klick-web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/icon.png": "/klick-web/static/media/icon.2b122cb6949e0c0a3c4e.png",
     "index.html": "/klick-web/index.html",
-    "main.f855e6bc.css.map": "/klick-web/static/css/main.f855e6bc.css.map",
-    "main.14f089f9.js.map": "/klick-web/static/js/main.14f089f9.js.map",
+    "main.c7cd6998.css.map": "/klick-web/static/css/main.c7cd6998.css.map",
+    "main.82a64fb7.js.map": "/klick-web/static/js/main.82a64fb7.js.map",
     "453.a2f5cdf3.chunk.js.map": "/klick-web/static/js/453.a2f5cdf3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.14f089f9.js"
+    "static/css/main.c7cd6998.css",
+    "static/js/main.82a64fb7.js"
   ]
 }
