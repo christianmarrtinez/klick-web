@@ -1,13 +1,13 @@
 import React from 'react';
+import './App.css';
 
-const Privacy = () => {
+function Privacy() {
   return (
     <div className="Privacy">
       <h2>Privacy Policy</h2>
-      <p>This is the Privacy Policy of our app. Please read carefully.</p>
-      <p>Here you can detail your privacy practices.</p>
+      <p>This is the full privacy policy page...</p>
     </div>
   );
-};
+}
 
 export default Privacy;
