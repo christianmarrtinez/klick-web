@@ -9,7 +9,7 @@ function Home() {
     <div className="App">
       <header className="App-header">
         <img src={icon} className="App-icon" alt="icon" />
-        <h1>Klick Competitions Coming to the Google Play/App store soon</h1>
+        <h1>Klick Competitions coming to the Google Play/App store soon</h1>
 
         <div className="App-links">
           <Link to="/privacy" className="App-link">Privacy Policy</Link>
