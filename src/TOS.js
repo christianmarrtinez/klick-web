@@ -22,10 +22,12 @@ function TOS() {
           If you have any questions, feel free to reach out to our support team.
         </p>
 
-        <div className="App-links">
-          <Link to="/" className="App-link">Home</Link>
-          <Link to="/privacy" className="App-link">Privacy Policy</Link>
+        <div className="top-right-links">
+        <Link to="/" className="App-link">Home</Link>
+        <Link to="/privacy" className="App-link">Privacy Policy</Link>
+        <Link to="/tos" className="App-link">Terms of Service</Link>
         </div>
+
       </header>
     </div>
   );

@@ -48,3 +48,12 @@
 .Privacy h2, .TOS h2 {
   color: #333;
 }
+
+.top-right-links {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  display: flex;
+  gap: 15px;
+  z-index: 100;
+}

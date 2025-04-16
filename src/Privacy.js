@@ -20,10 +20,12 @@ function Privacy() {
           We do not share your information with third parties without your consent unless required by law.
         </p>
 
-        <div className="App-links">
-          <Link to="/" className="App-link">Home</Link>
-          <Link to="/tos" className="App-link">Terms of Service</Link>
+        <div className="top-right-links">
+        <Link to="/" className="App-link">Home</Link>
+        <Link to="/privacy" className="App-link">Privacy Policy</Link>
+        <Link to="/tos" className="App-link">Terms of Service</Link>
         </div>
+
       </header>
     </div>
   );
