@@ -10,6 +10,7 @@ function Privacy() {
       <header className="App-header">
         <img src={icon} className="App-icon" alt="icon" />
         <h2>Privacy Policy</h2>
+        <div className="content-box">
         <p>
           This is the full privacy policy page. We value your privacy and are committed to protecting your data.
         </p>
@@ -19,7 +20,7 @@ function Privacy() {
         <p>
           We do not share your information with third parties without your consent unless required by law.
         </p>
-
+        </div>
         <div className="top-right-links">
         <Link to="/" className="App-link">Home</Link>
         <Link to="/privacy" className="App-link">Privacy Policy</Link>

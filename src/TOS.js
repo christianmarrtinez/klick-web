@@ -10,6 +10,7 @@ function TOS() {
       <header className="App-header">
         <img src={icon} className="App-icon" alt="icon" />
         <h2>Terms of Service</h2>
+        <div className="content-box">
         <p>
           Welcome to our Terms of Service page. By using this application, you agree to the following terms:
         </p>
@@ -21,7 +22,7 @@ function TOS() {
         <p>
           If you have any questions, feel free to reach out to our support team.
         </p>
-
+        </div>
         <div className="top-right-links">
         <Link to="/" className="App-link">Home</Link>
         <Link to="/privacy" className="App-link">Privacy Policy</Link>
