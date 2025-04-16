@@ -11,7 +11,7 @@ function App() {
       <div className="App">
         <header className="App-header">
           <img src={icon} className="App-icon" alt="icon" />
-          <h1>Welcome to My App</h1>
+          <h1>Coming to the Google Play/App store soon</h1>
 
           <div className="App-links">
             <Link to="/privacy" className="App-link">Privacy Policy</Link>
