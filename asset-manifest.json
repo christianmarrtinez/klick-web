@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/klickcontent.com/static/css/main.0cae9b07.css",
-    "main.js": "/klickcontent.com/static/js/main.eec6d54a.js",
-    "static/js/453.a2f5cdf3.chunk.js": "/klickcontent.com/static/js/453.a2f5cdf3.chunk.js",
-    "static/media/icon.png": "/klickcontent.com/static/media/icon.2b122cb6949e0c0a3c4e.png",
-    "index.html": "/klickcontent.com/index.html",
-    "main.0cae9b07.css.map": "/klickcontent.com/static/css/main.0cae9b07.css.map",
-    "main.eec6d54a.js.map": "/klickcontent.com/static/js/main.eec6d54a.js.map",
-    "453.a2f5cdf3.chunk.js.map": "/klickcontent.com/static/js/453.a2f5cdf3.chunk.js.map"
+    "main.css": "/klick-web/static/css/main.0cae9b07.css",
+    "main.js": "/klick-web/static/js/main.9d2116a1.js",
+    "static/js/453.a2f5cdf3.chunk.js": "/klick-web/static/js/453.a2f5cdf3.chunk.js",
+    "static/media/icon.png": "/klick-web/static/media/icon.2b122cb6949e0c0a3c4e.png",
+    "index.html": "/klick-web/index.html",
+    "main.0cae9b07.css.map": "/klick-web/static/css/main.0cae9b07.css.map",
+    "main.9d2116a1.js.map": "/klick-web/static/js/main.9d2116a1.js.map",
+    "453.a2f5cdf3.chunk.js.map": "/klick-web/static/js/453.a2f5cdf3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0cae9b07.css",
-    "static/js/main.eec6d54a.js"
+    "static/js/main.9d2116a1.js"
   ]
 }
