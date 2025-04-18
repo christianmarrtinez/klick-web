@@ -7,7 +7,7 @@ import './App.css';
 
 function App() {
   return (
-    <Router basename="/klick-web">
+    <Router basename="/">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/privacy" element={<Privacy />} />
