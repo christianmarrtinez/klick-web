@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from './Home';
 import Privacy from './Privacy';
 import TOS from './TOS';
+import Success from './Success';
 import './App.css';
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/privacy" element={<Privacy />} />
         <Route path="/tos" element={<TOS />} />
+        <Route path="/success" element={<Success />} />
       </Routes>
     </Router>
   );

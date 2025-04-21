@@ -68,3 +68,18 @@
   border-radius: 10px;
   text-align: left;
 }
+
+.purple-text-button {
+  background-color: white;
+  color: #8b51ff; /* Purple text */
+  border: 1px solid #a855f7;
+  padding: 0.75rem 1.5rem;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.purple-text-button:hover {
+  background-color: #f3e8ff; /* Light purple background on hover */
+}
