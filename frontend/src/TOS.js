@@ -45,7 +45,7 @@ function TOS() {
           <p>These terms are governed by the laws of your local jurisdiction unless otherwise stated.</p>
 
           <h4>9. Contact Us</h4>
-          <p>Questions or concerns? Contact <a href="mailto:christianmarrtinez@gmail.com">christianmarrtinez@gmail.com</a>.</p>
+          <p>Questions or concerns? Contact <a href="mailto:support@klickcontent.com">support@klickcontent.com</a>.</p>
         </div>
 
         <div className="top-right-links">
